@@ -1,0 +1,4 @@
+file_name;score;description
+kaggle_titanic_gender_submission.csv;;example file, not submitted
+kaggle_titanic_submission_decisionTreeSimpleSklearn_20181017174819.csv;0.67464;pure DecisionTreeClassifier without arguments
+kaggle_titanic_submission_decisionTreeSimpleSklearn_20181017180236.csv;0.78947;DecisionTreeClassifier(min_samples_split=20, max_depth=5)
