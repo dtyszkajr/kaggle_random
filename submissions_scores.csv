@@ -2,3 +2,6 @@ file_name;score;description
 kaggle_titanic_gender_submission.csv;;example file, not submitted
 kaggle_titanic_submission_decisionTreeSimpleSklearn_20181017174819.csv;0.67464;pure DecisionTreeClassifier without arguments
 kaggle_titanic_submission_decisionTreeSimpleSklearn_20181017180236.csv;0.78947;DecisionTreeClassifier(min_samples_split=20, max_depth=5)
+kaggle_titanic_submission_gtb_maxdepth3_20181018145418.csv;0.76076;#Gradient Tree Boosting test_data_dum GradientBoostingClassifier(max_depth=3)
+kaggle_titanic_submission_gtb_maxdepth7_20181018151410.csv;0.74162;Gradient Tree Boosting test_data_dum GradientBoostingClassifier(max_depth=7)
+kaggle_titanic_submission_sklogisticliblinear_20181018152149.csv;0.78947;Logistic regression sklearn liblinear
